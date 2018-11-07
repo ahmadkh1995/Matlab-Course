@@ -1,2 +1,3 @@
 # Matlab-Course
- Slides of Matlab course instructed in Shahed University of Tehran 
+##Instructor : AHMAD KHEIRANDISH
+My Slides of Matlab course instructed in Shahed University of Tehran 
