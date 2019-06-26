@@ -11,8 +11,6 @@ For more info check this [Pdf](https://github.com/ahmadkh1995/Matlab-PLC_Course/
 
 <p align="center">
   <img width="500" height="350" src="https://github.com/ahmadkh1995/Matlab-PLC_Course/blob/master/WorldSkills-IRAN%20Section/PLC_2.jpg">
-  <img width="500" height="310" src="https://github.com/ahmadkh1995/Matlab-PLC_Course/blob/master/WorldSkills-IRAN%20Section/plc%20_%20project.PNG">
-
 </p>
 
 <p align="center">
